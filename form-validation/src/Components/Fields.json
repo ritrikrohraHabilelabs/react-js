@@ -1,0 +1,36 @@
+[
+  {
+    "tagType": "input",
+    "labelName": "FULL NAME",
+    "type": "text",
+    "name": "fullName",
+    "placeholder": "ENTER FULL NAME"
+  },
+  {
+    "tagType": "input",
+    "labelName": "MALE",
+    "type": "radio",
+    "name": "gender",
+    "id": "male"
+  },
+  {
+    "tagType": "input",
+    "labelName": "FEMALE",
+    "type": "radio",
+    "name": "gender",
+    "id": "female"
+  },
+  {
+    "tagType": "input",
+    "labelName": "MOBILE NUMBER",
+    "type": "text",
+    "name": "mobileNumber",
+    "placeholder": "ENTER MOBILE NUMBER"
+  },
+  {
+    "tagType": "textarea",
+    "labelName": "ADDRESS",
+    "name": "address",
+    "placeholder": "ENTER ADDRESS"
+  }
+]
